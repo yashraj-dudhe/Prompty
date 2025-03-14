@@ -1,0 +1,20 @@
+timestamp,original_prompt,optimized_prompt,evaluation,original_response,optimized_response
+2025-03-14 09:17:59.264623,hi,"Hello.
+","* **Clarity (1/10):** Extremely low. ""Hi"" offers no context or direction. It's unclear what the prompt is asking for.
+* **Conciseness (10/10):**  It's as concise as it can be, but unhelpful.
+* **Specificity (1/10):**  No specific request or topic is mentioned.
+* **Relevance (1/10):**  Without context, it's impossible to determine relevance. It's not relevant to any discernible task or discussion.
+","Hi there! How can I help you today?
+",API request failed with status code 429
+2025-03-14 09:18:23.009057,my name is yashraj,API request failed with status code 429,API request failed with status code 429,API request failed with status code 429,API request failed with status code 429
+2025-03-14 09:20:00.810029,"My name is yashraj
+","Introduce yourself. Your name is Yashraj.
+","* **Clarity (2/10):**  While grammatically sound, the prompt is unclear in its purpose.  It states a name but provides no context or instruction. What is the user intending to do with this information?
+
+* **Conciseness (10/10):** As short as it can be while still being a sentence.
+
+* **Specificity (1/10):**  Extremely low specificity. It offers a name but no direction whatsoever.
+
+* **Relevance (1/10):** Without any context or purpose, the relevance is nonexistent.  It's impossible to judge relevance without knowing the intended application or task.
+","It's nice to meet you, Yashraj!
+",API request failed with status code 429
